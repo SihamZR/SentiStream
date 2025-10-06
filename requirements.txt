@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+scikit-learn
+joblib
+tqdm
+
+# NLP classique
+nltk
+textblob
+
+# Transformers (optionnel mais recommandé)
+transformers
+torch
+
+# API & streaming
+fastapi
+uvicorn
+websockets
+kafka-python   # si tu utilises Kafka (optionnel)
+
+# Dashboard temps réel
+streamlit
+plotly

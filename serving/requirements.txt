@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+facenet-pytorch==2.6.0
+torch
+torchvision
+joblib
+xgboost
+numpy
+Pillow==10.2.0
+opencv-python
+pandas
+scikit-learn
+python-multipart
+ultralytics
+matplotlib
+seaborn

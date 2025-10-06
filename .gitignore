@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environnements
+.venv/
+venv/
+.env
+.env.*
+
+# Données / artefacts
+DATASET/
+artifacts/
+reporting/
+
+# Gros modèles
+*.weights
+*.h5
+*.pt
+*.onnx
+*.pkl
+*.joblib
+*.ckpt
+*.npy
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

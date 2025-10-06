@@ -1,0 +1,12 @@
+matplotlib
+pandas
+numpy
+torch
+torchvision
+scikit-learn
+imblearn
+xgboost
+joblib
+Pillow
+facenet-pytorch
+opencv-python-headless
